@@ -8,4 +8,4 @@ This is my personal portfolio website built with HTML.
 - Project gallery
 
 ## View Live
-https://scthil-bit.github.io/project1/
+https://sethil-bit.github.io/project1/
